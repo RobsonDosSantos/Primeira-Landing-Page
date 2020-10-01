@@ -16,7 +16,7 @@ Tela Login
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
-  <img src="http://i.imgur.com/ZfvNpyJh.gif" alt="demo" height="300">
+  <blockquote class="imgur-embed-pub" lang="en" data-id="a/Lde8kY7" data-context="false" ><a href="//imgur.com/a/Lde8kY7"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 <hr />
