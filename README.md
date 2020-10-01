@@ -16,9 +16,25 @@ Primeira Landing Page / Pratica
 
 
 [//]: # (Add your gifs/images here:)
+<br>
+<h1 align="center">
+<br>
+Tela Inicial
+</h1>
 <div align="center">
   <img src="https://github.com/RobsonDosSantos/Primeira-Landing-Page/blob/master/Pagina%20Inicial.gif" alt="demo" height="300">
 </div>
+
+<br>
+<h1 align="center">
+<br>
+Tela Oferecemos
+</h1>
+<div align="center">
+  <img src="https://github.com/RobsonDosSantos/Primeira-Landing-Page/blob/master/Part2.gif" alt="demo" height="300">
+</div>
+
+
 
 <hr />
 
