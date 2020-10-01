@@ -1,4 +1,4 @@
-# Primeira-Landing-Page
+# Landing Page
 
 <h1 align="center">
 <br>
@@ -16,9 +16,9 @@ Primeira Landing Page / Pratica
 
 
 [//]: # (Add your gifs/images here:)
-<div align="center">
-  <img src="https://imgflip.com/gif/4gxvvr" alt="demo" height="300">
-</div>
+
+![Pagina Inicial](https://github.com/RobsonDosSantos/Primeira-Landing-Page/blob/master/Pagina%20Inicial.gif)
+
 
 <hr />
 
