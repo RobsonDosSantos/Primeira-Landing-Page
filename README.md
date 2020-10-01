@@ -3,7 +3,7 @@
 <h1 align="center">
 <br>
 <br>
-Tela Login
+Primeira Landing Page / Pratica
 </h1>
 
 <p align="center">Primeira Landing Page criada para estudos de Tags e elementos do Html e Css.</p>
@@ -16,12 +16,16 @@ Tela Login
 
 [//]: # (Add your gifs/images here:)
 <h1 align="center">
+  Tela Principal
+</h1>
 <div align="center">
   <img src="http://i.imgur.com/ZfvNpyJh.gif" alt="demo" height="300">
 </div>
 <br>
 <br>
 <h1 align="center">
+  Tela Orçamento
+</h1>
 <div align="center">
   <img src="https://i.imgur.com/loQwI0y.gif" alt="demo" height="300">
 </div>
