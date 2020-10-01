@@ -16,14 +16,6 @@ Primeira Landing Page / Pratica
 
 [//]: # (Add your gifs/images here:)
 <h1 align="center">
-  Tela Principal
-</h1>
-<div align="center">
-  <img src="http://i.imgur.com/ZfvNpyJh.gif" alt="demo" height="300">
-</div>
-<br>
-<br>
-<h1 align="center">
   Tela Orçamento
 </h1>
 <div align="center">
