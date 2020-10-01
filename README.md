@@ -30,7 +30,6 @@ Primeira Landing Page / Pratica
   <img src="https://i.imgur.com/loQwI0y.gif" alt="demo" height="300">
 </div>
 
-
 <hr />
 
 ## Linguagens utilizadas ##
