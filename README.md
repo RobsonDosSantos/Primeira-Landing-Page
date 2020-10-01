@@ -28,10 +28,28 @@ Tela Inicial
 <br>
 <h1 align="center">
 <br>
-Tela Oferecemos
+Tela 2
 </h1>
 <div align="center">
   <img src="https://github.com/RobsonDosSantos/Primeira-Landing-Page/blob/master/Part2.gif" alt="demo" height="300">
+</div>
+
+<br>
+<h1 align="center">
+<br>
+Tela 3
+</h1>
+<div align="center">
+  <img src="https://github.com/RobsonDosSantos/Primeira-Landing-Page/blob/master/Part3.gif" alt="demo" height="300">
+</div>
+
+<br>
+<h1 align="center">
+<br>
+Tela 4
+</h1>
+<div align="center">
+  <img src="https://github.com/RobsonDosSantos/Primeira-Landing-Page/blob/master/Final.gif" alt="demo" height="300">
 </div>
 
 
