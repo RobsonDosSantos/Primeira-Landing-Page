@@ -18,9 +18,7 @@ Primeira Landing Page / Pratica
 <h1 align="center">
   Tela Principal
 </h1>
-<div align="center">
-  <img src="https://imgflip.com/embed/4gxvvr" alt="demo" height="300">
-</div>
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:45%;position:relative;"><iframe width="360" height="162" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4gxvvr"></iframe></div><p><a href="https://imgflip.com/gif/4gxvvr">via Imgflip</a></p></div>
 <br>
 <br>
 <hr />
